@@ -6,6 +6,6 @@ int main(void) {
   int b = 10;
 
   // just a simple sum
-  std::cout << "(a+b) = " << a + b << "\n";
+  std::cout << "(a + b) = " << a + b << "\n";
   return 0;
 };
